@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="title_activity_needy">Map</string>
+    <string name="title_activity_maps_dbulk">Map</string>
+</resources>
